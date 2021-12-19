@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jaelcio de Araujo
 
 - 🔭 Hoje eu trabalho com backend.
-- 🌱 Estudo C e Java.
+- 🌱 Estudo Python e JavaScript.
 - 📫 Fale comigo pelo email jaelcio@jaelcio.com.br
 
  <div>
