@@ -1,27 +1,21 @@
-### Olá! Eu sou o Jaelcio de Araujo
+# Bem-vindo ao meu GitHub!
 
-- 🔭 Atualmente trabalho com backend.
-- 🌱 Estou me aprofundando em cloud computing, PHP, C e Python.
-- 📫 Entre em contato pelo email: [jaelcio@jaelcio.com.br](mailto:jaelcio@jaelcio.com.br)
-<div>
-  <a href="https://linkedin.com/in/jaelcio-araujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/Jaelcio-de-Araujo" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
+Olá! Eu sou o Jaelcio de Araujo, um desenvolvedor web apaixonado por criar sistemas e websites incríveis. Aqui você encontrará projetos em PHP, Laravel, JavaScript e muito mais.
 
-<div align="center">
-  <a href="https://github.com/Jaelcio-de-Araujo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaelcio-de-Araujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaelcio-de-Araujo&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
+## Sobre Mim
 
----
+- 👨‍💻 Desenvolvedor Full Stack
+- 🌱 Sempre em busca de aprender e melhorar minhas habilidades
+- 💬 Pergunte-me sobre PHP, Laravel, AWS e C
+- 📫 Como me alcançar: [jaelcio@example.com](mailto:jaelcio@example.com)
+- 😄 Pronomes: Ele/Dele
 
-<div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" height="30" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="30" width="40"/>
-</div>
+## Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Jaelcio-de-Araujo&show_icons=true&theme=radical)
+
+## Entre em Contato
+
+- Twitter: [twitter.com/jaelcio](https://twitter.com/jaelcio)
+- LinkedIn: [linkedin.com/in/jaelcio](https://www.linkedin.com/in/jaelcio-araujo/)
+- Site: [jaelcio.com.br](https://jaelcio.com.br)
