@@ -33,10 +33,3 @@
 </div>
 
 ---
-
-#### Outras Estatísticas:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaelcio-de-Araujo&theme=dark" alt="Jaelcio-de-Araujo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaelcio-de-Araujo&theme=dark" />
-</p>
