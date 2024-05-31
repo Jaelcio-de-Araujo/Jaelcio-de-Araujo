@@ -16,6 +16,5 @@ Olá! Eu sou o Jaelcio de Araujo, um desenvolvedor web apaixonado por criar sist
 
 ## Entre em Contato
 
-- Twitter: [twitter.com/jaelcio](https://twitter.com/jaelcio)
 - LinkedIn: [linkedin.com/in/jaelcio](https://www.linkedin.com/in/jaelcio-araujo/)
 - Site: [jaelcio.com.br](https://jaelcio.com.br)
