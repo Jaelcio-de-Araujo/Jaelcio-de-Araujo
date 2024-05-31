@@ -11,6 +11,8 @@
   </a>
 </div>
 
+---
+
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="30" width="40"/>
@@ -19,13 +21,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="30" width="40"/>
 </div>
-
-<div>
-  <a href="https://linkedin.com/in/jaelcio-araujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/Jaelcio-de-Araujo" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaelcio-de-Araujo&theme=dark" alt="Jaelcio-de-Araujo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaelcio-de-Araujo&theme=dark" />
-</p>
