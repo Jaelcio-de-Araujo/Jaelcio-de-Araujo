@@ -16,6 +16,7 @@
   <a href="https://github.com/Jaelcio-de-Araujo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaelcio-de-Araujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaelcio-de-Araujo&layout=compact&langs_count=7&theme=dark"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaelcio-de-Araujo&theme=dark" alt="Jaelcio-de-Araujo" />
   </a>
 </div>
 
@@ -33,9 +34,3 @@
 </div>
 
 ---
-
-#### Outras Estatísticas:
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaelcio-de-Araujo&theme=dark" alt="Jaelcio-de-Araujo" />
-</p>
