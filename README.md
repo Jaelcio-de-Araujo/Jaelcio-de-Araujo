@@ -3,6 +3,10 @@
 - 🔭 Atualmente trabalho com backend.
 - 🌱 Estou me aprofundando em cloud computing, PHP, C e Python.
 - 📫 Entre em contato pelo email: [jaelcio@jaelcio.com.br](mailto:jaelcio@jaelcio.com.br)
+<div>
+  <a href="https://linkedin.com/in/jaelcio-de-araujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Jaelcio-de-Araujo" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
 
 ---
 
@@ -26,15 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="30" width="40"/>
-</div>
-
----
-
-#### Conecte-se Comigo:
-
-<div>
-  <a href="https://linkedin.com/in/jaelcio-de-araujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/Jaelcio-de-Araujo" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
 
 ---
