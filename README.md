@@ -3,10 +3,6 @@
 - 🔭 Atualmente trabalho com backend.
 - 🌱 Estou me aprofundando em cloud computing, PHP, C e Python.
 - 📫 Entre em contato pelo email: [jaelcio@jaelcio.com.br](mailto:jaelcio@jaelcio.com.br)
-<div>
-  <a href="https://linkedin.com/in/jaelcio-araujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/Jaelcio-de-Araujo" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-</div>
 
 ---
 
@@ -16,7 +12,6 @@
   <a href="https://github.com/Jaelcio-de-Araujo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaelcio-de-Araujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaelcio-de-Araujo&layout=compact&langs_count=7&theme=dark"/>
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaelcio-de-Araujo&theme=dark" alt="Jaelcio-de-Araujo" />
   </a>
 </div>
 
@@ -34,3 +29,19 @@
 </div>
 
 ---
+
+#### Conecte-se Comigo:
+
+<div>
+  <a href="https://linkedin.com/in/jaelcio-araujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/Jaelcio-de-Araujo" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
+
+---
+
+#### Outras Estatísticas:
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaelcio-de-Araujo&theme=dark" alt="Jaelcio-de-Araujo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaelcio-de-Araujo&theme=dark" />
+</p>
