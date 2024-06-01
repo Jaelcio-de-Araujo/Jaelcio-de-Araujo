@@ -12,6 +12,8 @@ Olá! Eu sou o Jaelcio de Araujo, um desenvolvedor web apaixonado por criar sist
 ## Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Jaelcio-de-Araujo&show_icons=true&theme=radical)
+![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaelcio-de-Araujo&layout=compact&theme=radical)
+![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=Jaelcio-de-Araujo&theme=radical)
 
 ## Entre em Contato
 
