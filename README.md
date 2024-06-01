@@ -13,8 +13,8 @@ Olá! Eu sou o Jaelcio de Araujo, um desenvolvedor web apaixonado por criar sist
 
 <div>
 <a href="https://github.com/Jaelcio-de-Araujo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Jaelcio-de-Araujo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Jaelcio-de-Araujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaelcio-de-Araujo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaelcio-de-Araujo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Entre em Contato
