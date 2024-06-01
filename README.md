@@ -6,7 +6,7 @@ Olá! Eu sou o Jaelcio de Araujo, um desenvolvedor web apaixonado por criar sist
 
 - 👨‍💻 Desenvolvedor Full Stack
 - 🌱 Sempre em busca de aprender e melhorar minhas habilidades
-- 💬 Pergunte-me sobre PHP, Laravel, AWS e C
+- 💬 Pergunte-me sobre PHP, Laravel, C, JS e NodeJS
 - 😄 Pronomes: Ele/Dele
 
 ## Estatísticas do GitHub
